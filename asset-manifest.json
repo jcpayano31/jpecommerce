@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jpecommerce/static/css/main.948a29df.chunk.css",
+    "main.js": "/jpecommerce/static/js/main.79cb616b.chunk.js",
+    "main.js.map": "/jpecommerce/static/js/main.79cb616b.chunk.js.map",
+    "runtime-main.js": "/jpecommerce/static/js/runtime-main.2ba314e8.js",
+    "runtime-main.js.map": "/jpecommerce/static/js/runtime-main.2ba314e8.js.map",
+    "static/js/2.4ee8e0f6.chunk.js": "/jpecommerce/static/js/2.4ee8e0f6.chunk.js",
+    "static/js/2.4ee8e0f6.chunk.js.map": "/jpecommerce/static/js/2.4ee8e0f6.chunk.js.map",
+    "static/js/3.6920dd84.chunk.js": "/jpecommerce/static/js/3.6920dd84.chunk.js",
+    "static/js/3.6920dd84.chunk.js.map": "/jpecommerce/static/js/3.6920dd84.chunk.js.map",
+    "index.html": "/jpecommerce/index.html",
+    "static/css/main.948a29df.chunk.css.map": "/jpecommerce/static/css/main.948a29df.chunk.css.map",
+    "static/js/2.4ee8e0f6.chunk.js.LICENSE.txt": "/jpecommerce/static/js/2.4ee8e0f6.chunk.js.LICENSE.txt",
+    "static/media/pexels-cottonbro-4829075.03013bd6.jpg": "/jpecommerce/static/media/pexels-cottonbro-4829075.03013bd6.jpg",
+    "static/media/pexels-kenneth-carpina-1616097.c7659dfc.jpg": "/jpecommerce/static/media/pexels-kenneth-carpina-1616097.c7659dfc.jpg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/jpecommerce/static/media/shopping-cart-solid.d146d6c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba314e8.js",
+    "static/js/2.4ee8e0f6.chunk.js",
+    "static/css/main.948a29df.chunk.css",
+    "static/js/main.79cb616b.chunk.js"
+  ]
+}
